@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['texturetype_0',['TextureType',['../namespaceWiesel.html#addb7239279b9f406f7e192f8c32c3c85',1,'Wiesel']]]
+  ['vertex3dflag_0',['Vertex3DFlag',['../namespaceWiesel.html#a74bcb5e873d456ca267408c368a348c2',1,'Wiesel']]]
 ];

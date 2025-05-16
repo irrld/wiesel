@@ -14,7 +14,8 @@ var searchData=
   ['destroyvertexbuffer_11',['DestroyVertexBuffer',['../classWiesel_1_1Renderer.html#aa3fa8556a89524ab7c7bc1a6e2bfb476',1,'Wiesel::Renderer']]],
   ['dispatch_12',['Dispatch',['../classWiesel_1_1EventDispatcher.html#a48300501f19b4764d4d5b813f404f5c9',1,'Wiesel::EventDispatcher']]],
   ['drawfullscreen_13',['DrawFullscreen',['../classWiesel_1_1Renderer.html#a4d9dc239b66659a89164430f88d1c333',1,'Wiesel::Renderer']]],
-  ['drawmesh_14',['DrawMesh',['../classWiesel_1_1Renderer.html#a4193ce6355b71c45578e630b3d6c0408',1,'Wiesel::Renderer']]],
-  ['drawmodel_15',['DrawModel',['../classWiesel_1_1Renderer.html#a5d973ecc6a0ae826cd30959c86e874c5',1,'Wiesel::Renderer']]],
-  ['drawskybox_16',['DrawSkybox',['../classWiesel_1_1Renderer.html#a0c8ed8c64a44316ad60c3446bcfc8f30',1,'Wiesel::Renderer']]]
+  ['drawmesh_14',['DrawMesh',['../classWiesel_1_1Renderer.html#ae2a0154551bfc0ce50f945c76e11e4a9',1,'Wiesel::Renderer']]],
+  ['drawmodel_15',['DrawModel',['../classWiesel_1_1Renderer.html#a55165d787b276a15b2f8075dc11ec8ed',1,'Wiesel::Renderer']]],
+  ['drawskybox_16',['DrawSkybox',['../classWiesel_1_1Renderer.html#a0c8ed8c64a44316ad60c3446bcfc8f30',1,'Wiesel::Renderer']]],
+  ['drawsprite_17',['DrawSprite',['../classWiesel_1_1Renderer.html#ac4c334c6a15731f3786d79037a7ca008',1,'Wiesel::Renderer']]]
 ];

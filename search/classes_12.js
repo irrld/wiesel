@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['vector3_0',['Vector3',['../classWiesel_1_1Vector3.html',1,'Wiesel']]],
-  ['vector3f_1',['Vector3f',['../classWieselEngine_1_1Vector3f.html',1,'WieselEngine']]],
-  ['vertex2dnocolor_2',['Vertex2DNoColor',['../structWiesel_1_1Vertex2DNoColor.html',1,'Wiesel']]],
-  ['vertex3d_3',['Vertex3D',['../structWiesel_1_1Vertex3D.html',1,'Wiesel']]]
+  ['windowcloseevent_0',['WindowCloseEvent',['../classWiesel_1_1WindowCloseEvent.html',1,'Wiesel']]],
+  ['windowproperties_1',['WindowProperties',['../structWiesel_1_1WindowProperties.html',1,'Wiesel']]],
+  ['windowresizeevent_2',['WindowResizeEvent',['../classWiesel_1_1WindowResizeEvent.html',1,'Wiesel']]],
+  ['windowsize_3',['WindowSize',['../structWiesel_1_1WindowSize.html',1,'Wiesel']]]
 ];

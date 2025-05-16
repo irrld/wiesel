@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['vector3_0',['vector3',['../classWiesel_1_1Vector3.html#a1c6c552bf49497d7456f9092cb9ad677',1,'Wiesel::Vector3::Vector3()'],['../classWiesel_1_1Vector3.html#a5bf6c5308f2ff445ceba848f1b4bc960',1,'Wiesel::Vector3::Vector3(Ref&lt; glm::vec3 &gt; backingVector)']]],
-  ['vector3f_1',['vector3f',['../classWieselEngine_1_1Vector3f.html#af6101647ea302c9a744018a370d6a952',1,'WieselEngine.Vector3f.Vector3f(float x, float y, float z)'],['../classWieselEngine_1_1Vector3f.html#aca20c95dad6e7d6d5076e9a827cdccdc',1,'WieselEngine.Vector3f.Vector3f(float x, float y)'],['../classWieselEngine_1_1Vector3f.html#ab8c140300c0fe879aa6effaa9e84407a',1,'WieselEngine.Vector3f.Vector3f(float x)'],['../classWieselEngine_1_1Vector3f.html#a2417707861a0432c42781d78a77beeca',1,'WieselEngine.Vector3f.Vector3f()']]]
+  ['windowcloseevent_0',['WindowCloseEvent',['../classWiesel_1_1WindowCloseEvent.html#a87b4463096f9f013e76b83978473db4c',1,'Wiesel::WindowCloseEvent']]],
+  ['windowproperties_1',['WindowProperties',['../structWiesel_1_1WindowProperties.html#a8035098290e3b69ee718992121bfb0ce',1,'Wiesel::WindowProperties']]],
+  ['windowresizeevent_2',['WindowResizeEvent',['../classWiesel_1_1WindowResizeEvent.html#ac48cde719c76bdb6c14d3600bcaf8eea',1,'Wiesel::WindowResizeEvent']]]
 ];

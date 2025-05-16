@@ -5,7 +5,7 @@ var searchData=
   ['addcombinedimagesampler_2',['AddCombinedImageSampler',['../classWiesel_1_1DescriptorSet.html#a0841a86e2f3a5e451139dbe4df35f6a7',1,'Wiesel::DescriptorSet']]],
   ['addcomponent_3',['addcomponent',['../classWiesel_1_1IBehavior.html#a3da54dbb6c6631311fc5fcf08d855329',1,'Wiesel::IBehavior::AddComponent()'],['../classWiesel_1_1Entity.html#a4e63201e4a7aca4a8e72b5e66263f731',1,'Wiesel::Entity::AddComponent()'],['../classWiesel_1_1Scene.html#a44fa055e2d1792d16b323aea6fd00fce',1,'Wiesel::Scene::AddComponent()']]],
   ['adddynamicstate_4',['AddDynamicState',['../structWiesel_1_1Pipeline.html#a936dc71c69229af3dc161459fd5b4c68',1,'Wiesel::Pipeline']]],
-  ['addframe_5',['AddFrame',['../classWiesel_1_1SpriteBuilderAtlas.html#a8473b46ab523a9d07ccb3eb4b180f917',1,'Wiesel::SpriteBuilderAtlas']]],
+  ['addframe_5',['AddFrame',['../classWiesel_1_1SpriteBuilder.html#a35ec6ad8ec499203fe4db47e7f13efbd',1,'Wiesel::SpriteBuilder']]],
   ['addinputlayout_6',['AddInputLayout',['../structWiesel_1_1Pipeline.html#a3407bcef7bcf5e8f3ed1c1c9a1352bdd',1,'Wiesel::Pipeline']]],
   ['addpushconstant_7',['AddPushConstant',['../structWiesel_1_1Pipeline.html#ac8a92a53163fffedeeb718666e50a624',1,'Wiesel::Pipeline']]],
   ['addshader_8',['addshader',['../structWiesel_1_1Pipeline.html#a98c20c469dfba30e8d1344b7a269ddab',1,'Wiesel::Pipeline::AddShader(Ref&lt; Shader &gt; shader)'],['../structWiesel_1_1Pipeline.html#a4728e17693a27521c80623d84426c0f2',1,'Wiesel::Pipeline::AddShader(Ref&lt; Shader &gt; shader, T *data, std::vector&lt; VkSpecializationMapEntry &gt; mapEntries)']]],

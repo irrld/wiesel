@@ -9,6 +9,5 @@ var searchData=
   ['direction_6',['Direction',['../structWiesel_1_1LightDirect.html#a9a4f3f88e90a80da2aa2a871ae82f035',1,'Wiesel::LightDirect']]],
   ['directlightcount_7',['DirectLightCount',['../structWiesel_1_1LightsUniformData.html#a814355221d648734c3d710feec8d897c',1,'Wiesel::LightsUniformData']]],
   ['directlights_8',['DirectLights',['../structWiesel_1_1LightsUniformData.html#ad3320803ebd223a47a29ea754c559e2b',1,'Wiesel::LightsUniformData']]],
-  ['doesshadowpass_9',['doesshadowpass',['../structWiesel_1_1CameraComponent.html#a361af8bf68fe001068c12f8f39cf58f9',1,'Wiesel::CameraComponent::DoesShadowPass'],['../structWiesel_1_1CameraData.html#a0d8fb3a3cd9938cfe1bbf267d3089058',1,'Wiesel::CameraData::DoesShadowPass']]],
-  ['down_10',['Down',['../classWieselEngine_1_1Vector3f.html#a1471116dc21247218a724ef5f191b36d',1,'WieselEngine::Vector3f']]]
+  ['doesshadowpass_9',['doesshadowpass',['../structWiesel_1_1CameraComponent.html#a361af8bf68fe001068c12f8f39cf58f9',1,'Wiesel::CameraComponent::DoesShadowPass'],['../structWiesel_1_1CameraData.html#a0d8fb3a3cd9938cfe1bbf267d3089058',1,'Wiesel::CameraData::DoesShadowPass']]]
 ];

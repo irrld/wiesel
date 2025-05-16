@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['memorytype_0',['MemoryType',['../namespaceWiesel.html#a12b3fade5218a7941fd26dd9eff2d709',1,'Wiesel']]]
+  ['passtype_0',['PassType',['../namespaceWiesel.html#a3a4dc529a9c91e974ef506984adfda2e',1,'Wiesel']]],
+  ['pipelinebindpoint_1',['PipelineBindPoint',['../namespaceWiesel.html#afe543a1b8016ee71dbdd6e616b9118ed',1,'Wiesel']]]
 ];

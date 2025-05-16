@@ -12,6 +12,7 @@ var structWiesel_1_1Pipeline =
     [ "Bake", "structWiesel_1_1Pipeline.html#a54897bcd8e7269d64c09e277ff6fe75c", null ],
     [ "Bind", "structWiesel_1_1Pipeline.html#a24d33474f42fa13cdc907b7ea98f2b57", null ],
     [ "SetRenderPass", "structWiesel_1_1Pipeline.html#a2938e893818648a41660b3b57f79afb3", null ],
+    [ "SetVertexData", "structWiesel_1_1Pipeline.html#a0c3c8e9ea24c4ee86dd996df464c0ed6", null ],
     [ "SetVertexData", "structWiesel_1_1Pipeline.html#a1e1dc4d4f0cb8722ad7cf15ce6ac8b12", null ],
     [ "m_DescriptorLayouts", "structWiesel_1_1Pipeline.html#a5c8ec65540bbaafa77d53129dafa4a4b", null ],
     [ "m_DynamicStates", "structWiesel_1_1Pipeline.html#a7e9b9633887f0eb5228b77b11d8d7e32", null ],
@@ -24,5 +25,5 @@ var structWiesel_1_1Pipeline =
     [ "m_RenderPass", "structWiesel_1_1Pipeline.html#ae63e0c8b6cc867bb3fd2bf5acb88d2fa", null ],
     [ "m_Shaders", "structWiesel_1_1Pipeline.html#a33717ff44eec47248d79087ac67f109d", null ],
     [ "m_VertexAttributeDescriptions", "structWiesel_1_1Pipeline.html#a75bf738090c59062befe630e7a14f8fb", null ],
-    [ "m_VertexInputBindingDescription", "structWiesel_1_1Pipeline.html#a50b83a2bd244368154e1db4ac64cd560", null ]
+    [ "m_VertexInputBindingDescriptions", "structWiesel_1_1Pipeline.html#a5dd67eb2ba97ac12f74594bcfc87b3d8", null ]
 ];

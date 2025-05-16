@@ -19,7 +19,6 @@ var hierarchy =
     [ "Wiesel::Color< float >", "structWiesel_1_1Color.html", null ],
     [ "Wiesel::CommandBuffer", "classWiesel_1_1CommandBuffer.html", null ],
     [ "Wiesel::CommandPool", "classWiesel_1_1CommandPool.html", null ],
-    [ "WieselEngine.Debug", "classWieselEngine_1_1Debug.html", null ],
     [ "Wiesel::DescriptorSet", "classWiesel_1_1DescriptorSet.html", null ],
     [ "Wiesel::DescriptorSetLayout", "classWiesel_1_1DescriptorSetLayout.html", null ],
     [ "Wiesel::Engine", "classWiesel_1_1Engine.html", null ],
@@ -60,11 +59,8 @@ var hierarchy =
       [ "Wiesel::TransformComponent", "structWiesel_1_1TransformComponent.html", null ],
       [ "Wiesel::TreeComponent", "structWiesel_1_1TreeComponent.html", null ]
     ] ],
-    [ "Wiesel::Image", "classWiesel_1_1Image.html", null ],
     [ "Wiesel::ImageView", "classWiesel_1_1ImageView.html", null ],
-    [ "WieselEngine.Input", "classWieselEngine_1_1Input.html", null ],
     [ "Wiesel::InputManager", "classWiesel_1_1InputManager.html", null ],
-    [ "WieselEngine.Internals", "classWieselEngine_1_1Internals.html", null ],
     [ "Wiesel::KeyData", "structWiesel_1_1KeyData.html", null ],
     [ "Wiesel::Layer", "classWiesel_1_1Layer.html", [
       [ "Wiesel::Editor::EditorOverlay", "classWiesel_1_1Editor_1_1EditorOverlay.html", null ],
@@ -77,14 +73,13 @@ var hierarchy =
     [ "Wiesel::LightPointComponent", "structWiesel_1_1LightPointComponent.html", null ],
     [ "Wiesel::LightsUniformData", "structWiesel_1_1LightsUniformData.html", null ],
     [ "Wiesel::Material", "structWiesel_1_1Material.html", null ],
-    [ "WieselEngine.Mathf", "classWieselEngine_1_1Mathf.html", null ],
     [ "Wiesel::MatricesUniformData", "structWiesel_1_1MatricesUniformData.html", null ],
     [ "Wiesel::MemoryBuffer", "classWiesel_1_1MemoryBuffer.html", [
+      [ "Wiesel::IndexBuffer", "classWiesel_1_1IndexBuffer.html", null ],
       [ "Wiesel::UniformBuffer", "classWiesel_1_1UniformBuffer.html", null ]
     ] ],
     [ "Wiesel::Mesh", "structWiesel_1_1Mesh.html", null ],
     [ "Wiesel::Model", "structWiesel_1_1Model.html", null ],
-    [ "WieselEngine.MonoBehavior", "classWieselEngine_1_1MonoBehavior.html", null ],
     [ "MonoObjectWrapper", "classMonoObjectWrapper.html", null ],
     [ "MonoStringWrapper", "classMonoStringWrapper.html", null ],
     [ "Wiesel::Pipeline", "structWiesel_1_1Pipeline.html", null ],
@@ -113,10 +108,10 @@ var hierarchy =
     [ "Wiesel::Skybox", "classWiesel_1_1Skybox.html", null ],
     [ "Wiesel::Pipeline::SpecializationData", "structWiesel_1_1Pipeline_1_1SpecializationData.html", null ],
     [ "Wiesel::SpriteAsset", "classWiesel_1_1SpriteAsset.html", null ],
-    [ "Wiesel::SpriteBuilderArray", "classWiesel_1_1SpriteBuilderArray.html", null ],
-    [ "Wiesel::SpriteBuilderAtlas", "classWiesel_1_1SpriteBuilderAtlas.html", null ],
+    [ "Wiesel::SpriteBuilder", "classWiesel_1_1SpriteBuilder.html", null ],
     [ "Wiesel::SpriteComponent", "classWiesel_1_1SpriteComponent.html", null ],
     [ "Wiesel::SpriteTexture", "structWiesel_1_1SpriteTexture.html", null ],
+    [ "Wiesel::SpriteUniformData", "structWiesel_1_1SpriteUniformData.html", null ],
     [ "Wiesel::SSAOKernelUniformData", "structWiesel_1_1SSAOKernelUniformData.html", null ],
     [ "Wiesel::SSAOSpecializationData", "structWiesel_1_1SSAOSpecializationData.html", null ],
     [ "Wiesel::SwapChainSupportDetails", "structWiesel_1_1SwapChainSupportDetails.html", null ],
@@ -124,14 +119,11 @@ var hierarchy =
     [ "Wiesel::Texture", "classWiesel_1_1Texture.html", null ],
     [ "Wiesel::TextureProps", "structWiesel_1_1TextureProps.html", null ],
     [ "Wiesel::Time", "classWiesel_1_1Time.html", null ],
-    [ "WieselEngine.TransformComponent", "classWieselEngine_1_1TransformComponent.html", null ],
     [ "Wiesel::UUID", "classWiesel_1_1UUID.html", null ],
     [ "Wiesel::Vector3", "classWiesel_1_1Vector3.html", null ],
-    [ "WieselEngine.Vector3f", "classWieselEngine_1_1Vector3f.html", [
-      [ "WieselEngine.HandledVector3f", "classWieselEngine_1_1HandledVector3f.html", null ]
-    ] ],
     [ "Wiesel::Vertex2DNoColor", "structWiesel_1_1Vertex2DNoColor.html", null ],
     [ "Wiesel::Vertex3D", "structWiesel_1_1Vertex3D.html", null ],
+    [ "Wiesel::VertexSprite", "structWiesel_1_1VertexSprite.html", null ],
     [ "Wiesel::WindowProperties", "structWiesel_1_1WindowProperties.html", null ],
     [ "Wiesel::WindowSize", "structWiesel_1_1WindowSize.html", null ]
 ];

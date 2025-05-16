@@ -9,10 +9,11 @@ var searchData=
   ['endpresent_6',['EndPresent',['../classWiesel_1_1Renderer.html#ad015b595c0f1c08f6c491538320bc882',1,'Wiesel::Renderer']]],
   ['endsection_7',['EndSection',['../classWiesel_1_1Profiler.html#a170083f11bca216ec2dac030ef761388',1,'Wiesel::Profiler']]],
   ['endshadowpass_8',['EndShadowPass',['../classWiesel_1_1Renderer.html#a72e421b0ddf044a9c80dfbf73db3acb8',1,'Wiesel::Renderer']]],
-  ['endssaoblurpass_9',['EndSSAOBlurPass',['../classWiesel_1_1Renderer.html#ac2606b213e213f78425580b996450033',1,'Wiesel::Renderer']]],
-  ['endssaogenpass_10',['EndSSAOGenPass',['../classWiesel_1_1Renderer.html#addb5cf37648c0c3344e263620057065f',1,'Wiesel::Renderer']]],
-  ['entity_11',['Entity',['../classWiesel_1_1Entity.html#a9ab68084e2300fb1683c1af1b77a891a',1,'Wiesel::Entity']]],
-  ['event_5fclass_5fcategory_12',['EVENT_CLASS_CATEGORY',['../classWiesel_1_1MouseButtonEvent.html#afafb51dd80f8733092362a60f683f1d3',1,'Wiesel::MouseButtonEvent']]],
-  ['eventdispatcher_13',['EventDispatcher',['../classWiesel_1_1EventDispatcher.html#a07db963acd41d37c6f4ac9747b263038',1,'Wiesel::EventDispatcher']]],
-  ['extractfrustumplanes_14',['ExtractFrustumPlanes',['../structWiesel_1_1CameraComponent.html#aebcca7c2f4bdde06fb988c868a94ae62',1,'Wiesel::CameraComponent']]]
+  ['endspritepass_9',['EndSpritePass',['../classWiesel_1_1Renderer.html#a427ad02fa2efe3e441333093e1d9c76d',1,'Wiesel::Renderer']]],
+  ['endssaoblurpass_10',['EndSSAOBlurPass',['../classWiesel_1_1Renderer.html#ac2606b213e213f78425580b996450033',1,'Wiesel::Renderer']]],
+  ['endssaogenpass_11',['EndSSAOGenPass',['../classWiesel_1_1Renderer.html#addb5cf37648c0c3344e263620057065f',1,'Wiesel::Renderer']]],
+  ['entity_12',['Entity',['../classWiesel_1_1Entity.html#a9ab68084e2300fb1683c1af1b77a891a',1,'Wiesel::Entity']]],
+  ['event_5fclass_5fcategory_13',['EVENT_CLASS_CATEGORY',['../classWiesel_1_1MouseButtonEvent.html#afafb51dd80f8733092362a60f683f1d3',1,'Wiesel::MouseButtonEvent']]],
+  ['eventdispatcher_14',['EventDispatcher',['../classWiesel_1_1EventDispatcher.html#a07db963acd41d37c6f4ac9747b263038',1,'Wiesel::EventDispatcher']]],
+  ['extractfrustumplanes_15',['ExtractFrustumPlanes',['../structWiesel_1_1CameraComponent.html#aebcca7c2f4bdde06fb988c868a94ae62',1,'Wiesel::CameraComponent']]]
 ];

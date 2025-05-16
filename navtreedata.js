@@ -45,7 +45,6 @@ var NAVTREE =
         [ "Functions", "functions_func.html", "functions_func" ],
         [ "Variables", "functions_vars.html", "functions_vars" ],
         [ "Typedefs", "functions_type.html", null ],
-        [ "Properties", "functions_prop.html", null ],
         [ "Related Symbols", "functions_rela.html", null ]
       ] ]
     ] ],
@@ -62,19 +61,18 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"Debug_8cs.html",
-"classWieselEngine_1_1Vector3f.html#a0c997ff783d0084b9a3f8e4018c3e3bf",
-"classWiesel_1_1DescriptorSet.html#ae2d6fc0b082d80531791bb6df06a2e95",
-"classWiesel_1_1KeyEvent.html#ab4f253ffe51451ae7e01bc3f50e54012",
-"classWiesel_1_1Renderer.html#a969801aafc404a3d250143c2f63535c7",
-"classWiesel_1_1Texture.html#a1406b807c3a407c76640f5f170ff03d9",
-"imgui__spectrum_8hpp.html#a91f5ccc8e77be66577d4b2f31045d90a",
-"namespaceWiesel.html#addb7239279b9f406f7e192f8c32c3c85ad239dbf5d9000b5d74f5ec2fc4e6e2fa",
-"structWiesel_1_1CameraComponent.html",
-"structWiesel_1_1Cascade.html",
-"structWiesel_1_1Pipeline.html#a33717ff44eec47248d79087ac67f109d",
-"structWiesel_1_1TransformComponent.html#a927422870ee43c52d85ac8df4600e390",
-"w__renderer_8hpp.html#a18372412ad2fc3ce1e3240b3cf0efe78"
+"annotated.html",
+"classWiesel_1_1DescriptorSetLayout.html#ac4e7b48e637a007a023c890a9eba8acb",
+"classWiesel_1_1KeyTypedEvent.html#aca9a9e53cbd0131eeb591152ad55cf97",
+"classWiesel_1_1Renderer.html#a99bbe1c85ad5e0c300c330371a35c49f",
+"classWiesel_1_1SpriteComponent.html#aadb176bd23380982ea5503c87923911a",
+"imgui__spectrum_8hpp.html#a8935e60a3393f813f7aaf515d787450d",
+"namespaceWiesel.html#addb7239279b9f406f7e192f8c32c3c85aac133138c62b133875809a5a99e572b0",
+"structWiesel_1_1CameraComponent.html#af6aa0ec743529e6b587e7dc324d8ac43",
+"structWiesel_1_1LightDirectComponent.html#a00bf49327c3ff187e7a515693dd97cb2",
+"structWiesel_1_1SSAOKernelUniformData.html#a50cfba06542f377ff095bd17e49d53d0",
+"w__canvas_8hpp.html#a65148833b3227b9832b41ada3b87cf26acda1a779eb9c24acb4a56e221167f519",
+"w__utils_8hpp.html#a74bcb5e873d456ca267408c368a348c2a6bc7b273074c341fa8932aea209b69d1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -10,11 +10,10 @@ var searchData=
   ['beginrender_7',['BeginRender',['../classWiesel_1_1Renderer.html#a318c2519b6308dbd35876cee03af5199',1,'Wiesel::Renderer']]],
   ['beginsection_8',['BeginSection',['../classWiesel_1_1Profiler.html#ab6d02c3476b7547b098fc305d7f55f14',1,'Wiesel::Profiler']]],
   ['beginshadowpass_9',['BeginShadowPass',['../classWiesel_1_1Renderer.html#aeea07e9b512c576d64b861ea54d9167f',1,'Wiesel::Renderer']]],
-  ['beginssaoblurpass_10',['BeginSSAOBlurPass',['../classWiesel_1_1Renderer.html#a4d234405479794b1090c79aa7aa94b93',1,'Wiesel::Renderer']]],
-  ['beginssaogenpass_11',['BeginSSAOGenPass',['../classWiesel_1_1Renderer.html#aab1b3f11ead192ac3635eecec3e27ea1',1,'Wiesel::Renderer']]],
-  ['behavior_5fgetcomponent_12',['Behavior_GetComponent',['../classWieselEngine_1_1Internals.html#a893ea5e32f46b9d7b69b32992e981241',1,'WieselEngine::Internals']]],
-  ['behavior_5fhascomponent_13',['Behavior_HasComponent',['../classWieselEngine_1_1Internals.html#a046bbc913c09c68e92afe2592936032c',1,'WieselEngine::Internals']]],
-  ['behaviorscomponent_14',['BehaviorsComponent',['../classWiesel_1_1BehaviorsComponent.html#a817a45a5ef02ae842f7cb1f0a1f423e7',1,'Wiesel::BehaviorsComponent']]],
-  ['bind_15',['Bind',['../structWiesel_1_1Pipeline.html#a24d33474f42fa13cdc907b7ea98f2b57',1,'Wiesel::Pipeline']]],
-  ['build_16',['Build',['../classWiesel_1_1SpriteBuilderAtlas.html#a7e857ff8d239a0c1167caada6f2b7037',1,'Wiesel::SpriteBuilderAtlas']]]
+  ['beginspritepass_10',['BeginSpritePass',['../classWiesel_1_1Renderer.html#a3fa76c58c8cb922c08a5defa8e8ae7e3',1,'Wiesel::Renderer']]],
+  ['beginssaoblurpass_11',['BeginSSAOBlurPass',['../classWiesel_1_1Renderer.html#a4d234405479794b1090c79aa7aa94b93',1,'Wiesel::Renderer']]],
+  ['beginssaogenpass_12',['BeginSSAOGenPass',['../classWiesel_1_1Renderer.html#aab1b3f11ead192ac3635eecec3e27ea1',1,'Wiesel::Renderer']]],
+  ['behaviorscomponent_13',['BehaviorsComponent',['../classWiesel_1_1BehaviorsComponent.html#a817a45a5ef02ae842f7cb1f0a1f423e7',1,'Wiesel::BehaviorsComponent']]],
+  ['bind_14',['Bind',['../structWiesel_1_1Pipeline.html#a24d33474f42fa13cdc907b7ea98f2b57',1,'Wiesel::Pipeline']]],
+  ['build_15',['Build',['../classWiesel_1_1SpriteBuilder.html#af30687d2fe73141b8fbdac3ffa7b2eee',1,'Wiesel::SpriteBuilder']]]
 ];

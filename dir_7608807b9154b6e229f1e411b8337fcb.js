@@ -6,7 +6,7 @@ var dir_7608807b9154b6e229f1e411b8337fcb =
     [ "w_descriptor.hpp", "w__descriptor_8hpp.html", "w__descriptor_8hpp" ],
     [ "w_descriptorlayout.hpp", "w__descriptorlayout_8hpp.html", "w__descriptorlayout_8hpp" ],
     [ "w_framebuffer.hpp", "w__framebuffer_8hpp.html", "w__framebuffer_8hpp" ],
-    [ "w_image.hpp", "w__image_8hpp.html", "w__image_8hpp" ],
+    [ "w_image.hpp", "w__image_8hpp.html", null ],
     [ "w_material.hpp", "w__material_8hpp.html", "w__material_8hpp" ],
     [ "w_mesh.hpp", "w__mesh_8hpp.html", "w__mesh_8hpp" ],
     [ "w_pipeline.hpp", "w__pipeline_8hpp.html", "w__pipeline_8hpp" ],

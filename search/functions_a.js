@@ -1,7 +1,7 @@
 var searchData=
 [
   ['layer_0',['Layer',['../classWiesel_1_1Layer.html#a1a89180da2219128d618a57c82fb3ccd',1,'Wiesel::Layer']]],
-  ['length_1',['length',['../classMonoStringWrapper.html#ad30ccf18b793ac50041bfd0565947797',1,'MonoStringWrapper::length()'],['../classScopedMonoStringWrapper.html#a73261f539b297420925c593fccb48925',1,'ScopedMonoStringWrapper::length()'],['../classWieselEngine_1_1Vector3f.html#a7498a06ee9f2a31b8e3c2870e6e2baf0',1,'WieselEngine.Vector3f.Length()']]],
+  ['length_1',['length',['../classMonoStringWrapper.html#ad30ccf18b793ac50041bfd0565947797',1,'MonoStringWrapper::length()'],['../classScopedMonoStringWrapper.html#a73261f539b297420925c593fccb48925',1,'ScopedMonoStringWrapper::length()']]],
   ['lightbase_2',['lightbase',['../structWiesel_1_1LightBase.html#a03937a08d5d8ed980ea28f3fa6732584',1,'Wiesel::LightBase::LightBase()'],['../structWiesel_1_1LightBase.html#a034432e0db455b069d2ad81370b5a90a',1,'Wiesel::LightBase::LightBase(glm::vec3 color, float density, float ambient)']]],
   ['lightdirect_3',['lightdirect',['../structWiesel_1_1LightDirect.html#a34757ae5a85c50241286cf11de6e985c',1,'Wiesel::LightDirect::LightDirect()'],['../structWiesel_1_1LightDirect.html#aaee9804cccef74c315257d3a2892061f',1,'Wiesel::LightDirect::LightDirect(LightBase base)']]],
   ['lightdirectcomponent_4',['lightdirectcomponent',['../structWiesel_1_1LightDirectComponent.html#a6a9da9cbd6fd5ef8327559bd1b269703',1,'Wiesel::LightDirectComponent::LightDirectComponent()=default'],['../structWiesel_1_1LightDirectComponent.html#a00bf49327c3ff187e7a515693dd97cb2',1,'Wiesel::LightDirectComponent::LightDirectComponent(const LightDirectComponent &amp;)=default']]],
@@ -14,6 +14,5 @@ var searchData=
   ['loadcore_11',['LoadCore',['../classWiesel_1_1ScriptManager.html#abdc7757b343de167614c6c7088a39603',1,'Wiesel::ScriptManager']]],
   ['loadfont_12',['LoadFont',['../namespaceImGui_1_1Spectrum.html#ab13759cb5a57a1d382205cdace63b4a9',1,'ImGui::Spectrum']]],
   ['loadmodel_13',['loadmodel',['../classWiesel_1_1Engine.html#aa76497dc7a44adbc3e8d1a6a322d950c',1,'Wiesel::Engine::LoadModel(TransformComponent &amp;transform, ModelComponent &amp;modelComponent, const std::string &amp;path, bool convertToLeftHanded=true)'],['../classWiesel_1_1Engine.html#adb5ae655e7990cdea7df8d055dbff90a',1,'Wiesel::Engine::LoadModel(aiScene *scene, TransformComponent &amp;transform, ModelComponent &amp;modelComponent, const std::string &amp;path)']]],
-  ['loadspritetexture_14',['LoadSpriteTexture',['../namespaceWiesel.html#a72d85acbe22f7b783203d0628b73ae4c',1,'Wiesel']]],
-  ['log_5finfo_15',['Log_Info',['../classWieselEngine_1_1Internals.html#a1f6d7e01674c94a83fc06d9afa2a188f',1,'WieselEngine::Internals']]]
+  ['loadspritetexture_14',['LoadSpriteTexture',['../namespaceWiesel.html#aa03fb1706a3e6171d103910c0c0c80f8',1,'Wiesel']]]
 ];

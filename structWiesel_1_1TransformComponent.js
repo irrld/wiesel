@@ -20,12 +20,11 @@ var structWiesel_1_1TransformComponent =
     [ "SetRotation", "structWiesel_1_1TransformComponent.html#ad6ea3a9c216dbbb00e91956c1fdadc72", null ],
     [ "SetScale", "structWiesel_1_1TransformComponent.html#aeb022727346f635b8aeaab06404e3f0e", null ],
     [ "SetScale", "structWiesel_1_1TransformComponent.html#ad4bf1a4d0cecaa872193b0acb3a0c484", null ],
-    [ "UpdateMatrices", "structWiesel_1_1TransformComponent.html#afc6076fdf8ab211be0d3200f55578db0", null ],
     [ "IsChanged", "structWiesel_1_1TransformComponent.html#a8d60f34e169691a999ea805d131d8786", null ],
     [ "NormalMatrix", "structWiesel_1_1TransformComponent.html#a8f8e8ff05e90596c4d2ff1116880e79f", null ],
+    [ "Pivot", "structWiesel_1_1TransformComponent.html#a812469fef8ab3d1d758dda3fb8b00339", null ],
     [ "Position", "structWiesel_1_1TransformComponent.html#ad09e20415097596882cba0f4244769d9", null ],
     [ "Rotation", "structWiesel_1_1TransformComponent.html#aaf029cd1a3e83013cf7c3cc1fd291dbd", null ],
-    [ "RotationMatrix", "structWiesel_1_1TransformComponent.html#af04ec664e93240daf16478c7a92c29ca", null ],
     [ "Scale", "structWiesel_1_1TransformComponent.html#ae6eb309cfd0bfd9c7b0a456b2428bd1f", null ],
     [ "TransformMatrix", "structWiesel_1_1TransformComponent.html#a603fa079593c5ea739f23f2fcba7a394", null ]
 ];

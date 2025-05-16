@@ -6,6 +6,6 @@ var w__lights_8hpp =
     [ "Wiesel::LightsUniformData", "structWiesel_1_1LightsUniformData.html", "structWiesel_1_1LightsUniformData" ],
     [ "Wiesel::LightDirectComponent", "structWiesel_1_1LightDirectComponent.html", "structWiesel_1_1LightDirectComponent" ],
     [ "Wiesel::LightPointComponent", "structWiesel_1_1LightPointComponent.html", "structWiesel_1_1LightPointComponent" ],
-    [ "UpdateLight", "w__lights_8hpp.html#a12c7de1714e0f6c5fed0832d8443f2c5", null ],
-    [ "UpdateLight", "w__lights_8hpp.html#a72d2945cc9fac22fb75e275a561cf844", null ]
+    [ "UpdateLight", "w__lights_8hpp.html#aa605bd35445fdfd5cd6769651247c5f7", null ],
+    [ "UpdateLight", "w__lights_8hpp.html#aa5a01b3bff5f6995875f59e8f788852e", null ]
 ];
